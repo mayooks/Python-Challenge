@@ -1,0 +1,8 @@
+FINANCIAL REPORT
+--------------------------------------------------------------------
+The total number of months for the report is: 86
+The total profit during this period is: $22946737
+The average monthly profit is : $-2612.43
+Greatest highest monthly profit is: $1862002
+The lowest monthly profit is: $-1825558
+--------------------------------------------------------------------
